@@ -1,0 +1,20 @@
+img{
+  width: 300px;
+  height: 200px;
+}
+
+#favor{
+  display: grid;
+  place-content: center;
+}
+#answer{
+  display: flex;
+  place-content: center;
+}
+#ay{
+  position: absolute;
+  left: 140px;
+}
+#yey{
+  position: absolute;
+  left: 170px;
